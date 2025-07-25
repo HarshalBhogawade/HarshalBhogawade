@@ -1,6 +1,6 @@
-# Hi 👋, I'm Harshal Bhogawade
 
-A Web Dev enthusiast from Pune, India
+<h1 align="center">Hi 👋, I'm Harshal Bhogawade</h1>
+<h3 align="center">A Web Dev enthusiast from Pune, India</h3>
 
 - 🔭 I’m currently learning about **Frontent Development**
 - 🤖 Ask me about **Web dev , python**
