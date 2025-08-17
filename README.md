@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Harshal Bhogawade</h1>
 <h3 align="center">A Web Dev enthusiast from Pune, India</h3>
 
-- 🔭 I’m currently learning about **Frontent Development**
-- 🤖 Ask me about **Web dev , python**
+- 🔭 I’m currently learning about **Django Framework**
+- 🤖 Ask me about **Frontent Development , python**
 - 📫 How to reach me: harshalbhogawade1@gmail.com
 
 
